@@ -31,9 +31,9 @@ drwxr-xr-x 2 zabbix zabbix 4096 Dec  4 11:05 /usr/lib/zabbix/externalscripts/
 ```
 
 效果图：
-![切换前](./images/image-20221204190343666.png)
-![切换后](./images/image-20221204190655246.png)
-![切换日志](./images/image-20221204191005846.png)
+![切换前](./image-20221204190343666.png)
+![切换后](./image-20221204190655246.png)
+![切换日志](./image-20221204191005846.png)
 
 
 
