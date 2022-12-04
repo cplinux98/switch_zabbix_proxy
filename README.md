@@ -20,6 +20,11 @@
 
 - https://support.zabbix.com/browse/ZBXNEXT-5911
 
+安装相关pip包
+```bash
+pip3 install pyzabbix
+```
+
 脚本安装路径：
 ```bash
 /usr/lib/zabbix/externalscripts
